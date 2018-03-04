@@ -1,3 +1,3 @@
 # Desarrollo Web - JavaScript
-# DesarrolloWeb-Calculadora
+# Calculadora
 # Lermit Tovar
